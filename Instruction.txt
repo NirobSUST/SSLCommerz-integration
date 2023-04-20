@@ -1,0 +1,12 @@
+** Run The Project
+
+    node app.js
+
+** SSLCommerz Registration
+
+    1. Create a sandbox account - https://developer.sslcommerz.com/registration/
+    2. Get your store id and password and add them in .env ( U will get them in your Email )
+
+
+*** Initialize a Transaction: https://www.npmjs.com/package/sslcommerz-lts
+*** Youtube: https://youtu.be/As7Tk5bqq7c
